@@ -28,11 +28,23 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 🩺 **Lung Cancer Prediction** → ML pipeline with SVM, Logistic Regression & LightGBM + SMOTE  
-🔹 📊 **EDA Dashboards** → Visualization with Pandas, Seaborn, Plotly  
-🔹 🤖 **Model Benchmarking** → Comparing classifiers on imbalanced datasets  
 
-👉 [Check My Projects Here](https://github.com/poterahul6453?tab=repositories)
+<p align="center">
+  <a href="https://github.com/poterahul6453/Lung-Cancer-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poterahul6453&repo=Lung-Cancer-Prediction&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/poterahul6453/Data-Visualization-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poterahul6453&repo=Data-Visualization-Dashboard&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/poterahul6453/ML-Model-Benchmarking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poterahul6453&repo=ML-Model-Benchmarking&theme=tokyonight" />
+  </a>
+</p>
+
+👉 [Check All My Projects Here](https://github.com/poterahul6453?tab=repositories)
 
 ---
 
