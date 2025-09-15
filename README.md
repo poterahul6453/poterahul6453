@@ -24,11 +24,19 @@
 
 ---
 
-## 📂 Featured Projects  
-🔹 🩺 **Lung Cancer Prediction** → ML pipeline with SVM, Logistic Regression & LightGBM + SMOTE  
-🔹 📊 **EDA Dashboards** → Visualization with Pandas, Seaborn, Plotly  
-🔹 🤖 **Model Benchmarking** → Comparing classifiers on imbalanced datasets  
+### 🩺 Lung Cancer Prediction (ML Pipeline)
 
+A Machine Learning project to predict the likelihood of **lung cancer** based on patient health attributes.
+
+**🔹 Key Highlights:**
+- Cleaned and preprocessed dataset (**handled missing values, encoding, and scaling**)  
+- Built a complete **ML pipeline** for automation and reproducibility  
+- Implemented and compared classification models: **Logistic Regression, SVM, LightGBM**  
+- Evaluated models using **Accuracy, Precision, Recall, F1-score, and Confusion Matrix**  
+
+**📈 Outcome:**  
+Identified the most effective model for lung cancer prediction by comparing multiple classifiers.  
+Demonstrated practical skills in **EDA, feature engineering, and ML pipeline design**.  
 👉 [Explore More Projects](https://github.com/poterahul6453?tab=repositories)
 
 ---
