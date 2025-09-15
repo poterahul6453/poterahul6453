@@ -73,7 +73,7 @@ Demonstrated practical skills in **EDA, feature engineering, and ML pipeline des
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/rahulpote" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="www.linkedin.com/in/rahulpote-datascience" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:poterahul6453@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
