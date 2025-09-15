@@ -73,5 +73,5 @@
 
 <!-- Animated Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=100&section=footer&text=Made+with+❤️+by+Rahul&fontColor=ffffff&fontSize=20" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Made+with+❤️+and+Python+by+Rahul;Turning+Data+into+Insights+📊;Keep+Learning+%7C+Keep+Building+🚀" alt="Typing Footer" />
 </p>
