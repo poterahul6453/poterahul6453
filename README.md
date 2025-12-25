@@ -1,43 +1,86 @@
 <!-- Banner with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Lifelong+Learner+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Pote;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real-World+ML+Projects+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 💫 About Me  
-- 💻 Passionate about **Data Science & AI**  
-- 📊 Skilled in **Data Cleaning, EDA, Visualization, and ML Models**  
-- 🚀 Exploring **Model Deployment, MLOps, and Advanced ML techniques**  
-- 🎯 Building projects that combine **data + logic** to create real-world impact  
+- 💻 Aspiring **Data Scientist** with strong fundamentals in **Python & Machine Learning**  
+- 📊 Experienced in **Data Cleaning, EDA, Feature Engineering, and Model Building**  
+- 🤖 Hands-on with **ML & Deep Learning (ANN)** through real-world projects  
+- 🚀 Exploring **Model Deployment (Streamlit), end-to-end ML pipelines, and business problem-solving**  
 
 ---
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,git,github,vscode" />
 </p>
 
-**Fav Libraries:**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `Scikit-learn` • `LightGBM` • `TensorFlow`
+**Core Libraries & Tools:**  
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `TensorFlow` • `Streamlit`
 
 ---
 
-### 🩺 Lung Cancer Prediction (ML Pipeline)
+## 📌 Featured Projects  
 
-A Machine Learning project to predict the likelihood of **lung cancer** based on patient health attributes.
+### 🔥 Customer Churn Prediction (ANN + Streamlit)
+End-to-end project to predict whether a customer is likely to leave a bank.
 
-**🔹 Key Highlights:**
-- Cleaned and preprocessed dataset (**handled missing values, encoding, and scaling**)  
-- Built a complete **ML pipeline** for automation and reproducibility  
-- Implemented and compared classification models: **Logistic Regression, SVM, LightGBM**  
-- Evaluated models using **Accuracy, Precision, Recall, F1-score, and Confusion Matrix**  
+**🔹 Highlights:**
+- Performed EDA and feature engineering on banking data  
+- Built an **Artificial Neural Network (ANN)** using TensorFlow  
+- Tuned model performance and evaluated classification metrics  
+- Deployed the trained model using **Streamlit** for real-time prediction  
 
-**📈 Outcome:**  
-Identified the most effective model for lung cancer prediction by comparing multiple classifiers.  
-Demonstrated practical skills in **EDA, feature engineering, and ML pipeline design**.  
-👉 [Explore More Projects](https://github.com/poterahul6453?tab=repositories)
+🔗 **Repo:**  
+https://github.com/poterahul6453/Customer-Churn-Prediction-ANN  
+
+---
+
+### 🩺 Lung Cancer Prediction (Machine Learning)
+Machine Learning classification project on healthcare data.
+
+**🔹 Highlights:**
+- Cleaned and preprocessed medical & lifestyle data  
+- Performed EDA and feature selection  
+- Built and evaluated classification models using **Scikit-learn**  
+- Assessed performance using Accuracy, Confusion Matrix, and ROC-AUC  
+
+🔗 **Repo:**  
+https://github.com/poterahul6453/Lung-Cancer-Prediction-ML  
+
+---
+
+### 📊 Google Playstore Apps Analysis (EDA)
+Exploratory Data Analysis project on Google Playstore app data.
+
+**🔹 Highlights:**
+- Analyzed app categories, ratings, reviews, and installs  
+- Identified trends using Python-based EDA  
+- Visualized insights using Matplotlib & Seaborn  
+
+🔗 **Repo:**  
+https://github.com/poterahul6453/Google-Playstore-Apps-EDA  
+
+---
+
+### 🏏 Cricket Data Analysis (Python)
+Beginner-friendly EDA project on cricket datasets.
+
+**🔹 Highlights:**
+- Cleaned and analyzed cricket performance data  
+- Identified trends and patterns using Python  
+- Strengthened fundamentals of data analysis and visualization  
+
+🔗 **Repo:**  
+https://github.com/poterahul6453/Cricket-Data-Analysis-Python  
+
+---
+
+👉 **Explore all repositories:**  
+https://github.com/poterahul6453?tab=repositories  
 
 ---
 
@@ -66,11 +109,6 @@ Demonstrated practical skills in **EDA, feature engineering, and ML pipeline des
 
 ---
 
-## 💡 Random Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulpote-datascience" target="_blank">
@@ -80,9 +118,10 @@ Demonstrated practical skills in **EDA, feature engineering, and ML pipeline des
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
 </p>
+
 ---
 
 <!-- Animated Wave Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Made+with+❤️+and+Python+by+Rahul;Turning+Data+into+Insights+📊;Keep+Learning+%7C+Keep+Building+🚀" alt="Typing Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Built+with+Python+and+Consistency+💻;Learning+by+Building+Real+Projects+🚀;Aspiring+Data+Scientist+📊" alt="Typing Footer" />
 </p>
